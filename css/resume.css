@@ -81,8 +81,10 @@ h2 {
         flex-direction: column;
         width: 100%; }
         #sideNav .navbar-collapse .navbar-nav .nav-item {
+          font-weight: 700;
           display: block; }
           #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+            font-weight: 700;
             display: block; } }
 
 section.resume-section {
